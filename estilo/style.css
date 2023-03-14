@@ -120,13 +120,14 @@ form > input[type="submit"] {
   font-size: 1em;
   width: 100%;
   height: 30px;
-  background-color: var(--cor1);
+  background-color: #2d462d;
   border-radius: 5px;
-  border: 4px solid #5e5e5a;
+  border: 1px solid #0d140d;
+  color: white;
 }
 
 form > input[type="submit"]:hover {
-  background-color: #5e5e5a;
+  background-color: #1a2e1a;
   cursor: pointer;
 }
 
@@ -135,16 +136,18 @@ form > a.botao {
   font-size: 1em;
   width: 100%;
   height: 30px;
-  background-color: var(--cor1);
+  background-color: #2d462d;
   border: none;
   border-radius: 5px;
   text-decoration: none;
   text-align: center;
-  border: 4px solid #5e5e5a;
+  border: 1px solid #0d140d;
+  padding-top: 2px;
   margin-top: 5px;
+  color: white;
 }
 
 form > a:hover {
-  background-color: #5e5e5a;
+  background-color: #1a2e1a;
   cursor: pointer;
 }
