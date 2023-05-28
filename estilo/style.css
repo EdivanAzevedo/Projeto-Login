@@ -96,7 +96,7 @@ section#login {
 
 section#login > div#imagem {
   display: block;
-  background: url(/img/leaf.jpg);
+  background: url(/Projeto-Login/img/leaf.jpg);
   background-size: contain;
   height: 200px;
 }
